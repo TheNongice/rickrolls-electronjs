@@ -1,0 +1,15 @@
+{
+  "name": "this_is_a_rick_roll",
+  "version": "1.0.0alpha",
+  "description": "Never gonna give you up.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "TheNongice Wasawat (_ngixx's)",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2",
+    "electron-builder": "^22.14.13"
+  }
+}
